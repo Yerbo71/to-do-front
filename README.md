@@ -58,8 +58,5 @@ This project is a simple to-do list application built using React for the fronte
  Main Page
 ![image](https://github.com/Yerbo71/to-do-front/assets/115892544/d052d2da-41e6-48d0-acea-2bcb323fc41f)
 
- Main Page
-![image](https://github.com/Yerbo71/to-do-front/assets/115892544/d052d2da-41e6-48d0-acea-2bcb323fc41f)
-
  New todo
 ![image](https://github.com/Yerbo71/to-do-front/assets/115892544/4785d8f2-f225-46ec-b219-4ab6e79eef7e)
