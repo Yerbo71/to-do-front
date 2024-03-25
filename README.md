@@ -27,7 +27,7 @@ This project is a simple to-do list application built using React for the fronte
 1. Clone the frontend repository:
 
     ```
-    git clone [frontend repository URL]
+    git clone
     ```
 
 2. Navigate into the frontend directory:
